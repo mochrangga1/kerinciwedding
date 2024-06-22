@@ -1,0 +1,13 @@
+{
+    "name": "Undangan",
+    "alias": "undangan",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Undangan\\Providers\\UndanganServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
